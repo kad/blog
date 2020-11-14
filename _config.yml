@@ -18,7 +18,8 @@ email: kad@kad.name
 description: >
   My personal Blog with collection of posts related mostly to my hobbies.
 
-show_excerpts: false
+# show_excerpts: false
+show_excerpts: true
 
 # Minima 3.0
 # minima:
