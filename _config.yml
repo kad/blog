@@ -1,1 +1,49 @@
 theme: minima
+
+url: "https://kad.github.io"
+baseurl: "/blog"
+sitemapurl: "https://kad.github.io/blog"
+
+title: KAD's Blog
+
+# Minima 3.0
+# author:
+#   name: Alexander D. Kanevskiy
+#   email: kad@kad.name
+author: Alexander D. Kanevskiy
+email: kad@kad.name
+
+description: >
+  My personal Blog with collection of posts related mostly to my hobbies.
+
+show_excerpts: false
+
+# Minima 3.0
+# minima:
+#   social_links:
+#     github: kad
+#     twitter: lvader
+#     facebook: akanevskiy
+#     instagram: lvader
+#     linkedin: akanevskiy
+#     telegram: lvader
+
+twitter_username: lvader
+github_username:  kad
+rss: rss
+facebook_username: akanevskiy
+instagram_username: lvader
+linkedin_username: akanevskiy
+
+#header_pages:
+# - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+disqus:
+  shortname: lvader
+
+comments: true
