@@ -1,5 +1,7 @@
 theme: minima
 
+markdown: kramdown
+
 url: "https://kad.github.io"
 baseurl: "/blog"
 sitemapurl: "https://kad.github.io/blog"
